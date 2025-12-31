@@ -25,7 +25,7 @@
 2. Net profit consistently accounted for **22–26% of sales**, indicating margin stability across business cycles.
 3. Common-size balance sheets showed **reserves forming over 80% of total liabilities**, highlighting ITC’s equity-driven capital structure.
 
-**6. Beta Regression Calculation*
+**6. Beta Regression Calculation**
 1. **Beta was calculated using 2-year weekly returns**, regressing ITC stock returns against NIFTY market returns.
 2. The **raw beta of ~0.47** indicated lower volatility compared to the broader market.
 3. After adjusting for capital structure, the **levered beta was estimated at ~0.52**, reflecting ITC’s low systematic risk profile.
