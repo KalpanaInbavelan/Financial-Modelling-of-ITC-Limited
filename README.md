@@ -45,3 +45,13 @@
 2. **ROIC averaged ~28–30%**, reflecting strong returns on invested capital.
 3. Using the formula *Intrinsic Growth Rate = Reinvestment Rate × ROIC*, ITC’s **sustainable intrinsic growth was estimated at ~4–5%**, achievable without increasing leverage.
 
+**10.Company FCFF (Free Cash Flow to Firm) Calculation**
+1. **Start with Operating Cash Flow** FCFF begins with EBIT (Earnings Before Interest and Taxes), adjusted for taxes, then adds back non-cash charges like depreciation and amortization.  
+2. **Adjust for Investments** Subtract changes in working capital (increase in receivables, inventory, etc.) and capital expenditures (CapEx) to reflect reinvestment needs.  
+3. **Exclude Financing Decisions** FCFF is independent of debt/equity mix, so interest payments and financing cash flows are not considered — it represents cash available to all capital providers.  
+
+**11. Comparative Analysis**
+1. **Profitability & Efficiency** Compare margins (EBITDA, Net Profit), ROE, and ROCE across companies to assess operational strength and shareholder returns.  
+2. **Liquidity & Leverage**  Evaluate debt ratios, interest coverage, and cash conversion cycles to understand financial stability and risk exposure.  
+3. **Growth & Sustainability** Contrast revenue growth, dividend policies, and retained earnings to judge long-term expansion potential and reinvestment capacity.  
+
